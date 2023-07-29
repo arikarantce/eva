@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Yo...Yo...ANURAG {} 💖
+    START_TXT = """Yo...Yo... {} 💖
 I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
 
 Its Easy To Use Me; Just Add Me To Your Group As Admin, 
@@ -8,15 +8,11 @@ Thats All, i will Provide Movies There...🤓🤪
 
 ⚠️More Help Check Help Button Below
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by DotBots
 
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @akninfo"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
-
-○  Tutorial video is here @sources_cods
-
-○  it's Note Complicated...🤓
 
 ○  Search using inline mode
 This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space and search any movie you want...
@@ -38,7 +34,7 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 
 ©️ Maintained By @GuruBhai11"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Akninfo>AKN</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
